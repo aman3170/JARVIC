@@ -1,5 +1,7 @@
+const LexWebUi = window.LexWebUi;
+
 const chatbot = new LexWebUi({
-  botName: 'DailyTaskChatbot',
+  botName: 'JARVIC - Your Daily Task Chatbot',
   LexingtonRuntime: '2018-11-15',
   AWSRegion: 'us-east-1',
   identityPoolId: 'us-east-1:176ea5af-94b9-4f0a-a5c7-9bf54e9b717d',
